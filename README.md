@@ -253,7 +253,6 @@ The Studio is designed to provide editing capabilities while maintaining an intu
 
 ### Prerequisites
 
-- Install [Node.js](https://nodejs.org/)
 - Install [Next.js](https://nextjs.org/) globally:
 
   ```bash
