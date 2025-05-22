@@ -271,8 +271,8 @@ The Studio is designed to provide editing capabilities while maintaining an intu
 1. Clone the repository:
 
    ```bash
-   git clone git@github.com:DASS-Spring-2025/dass-spring-2025-project-team-9.git
-   cd dass-spring-2025-project-team-9
+   git clone https://github.com/ManiTej1729/AuraX-Dashboard.git
+   cd AuraX-Dashboard
    ```
 
 2. Open **two terminals**:
