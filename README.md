@@ -1,5 +1,7 @@
 # AuraX Dashboard
 
+This is my team project for the DASS course
+
 ## Introduction
 
 Welcome to the AuraX Dashboard! This internal tool helps AuraX team members manage clients and their images, including versioning.
