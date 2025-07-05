@@ -1,6 +1,6 @@
 # AuraX Dashboard
 
-This is my team project for the DASS course
+This is one of my team project for the DASS course
 
 ## Introduction
 
